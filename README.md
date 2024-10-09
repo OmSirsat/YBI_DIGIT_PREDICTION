@@ -1,4 +1,4 @@
-# YBI_DIGIT_PREDICTION
+# DIGIT_RECOGNITION
 
 - Handwritten digit recognition.
 - Model training and evaluation.
